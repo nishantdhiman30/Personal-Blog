@@ -1,0 +1,50 @@
+.brand-name {
+   font-size: 2rem;
+}
+.container-fluid {
+   /* padding-top: 30px;
+   padding-bottom: 30px; */
+   padding: 30px 7.75% 30px 7.75%;
+}
+.navbar {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border: 0;
+   border-radius: 0;
+   margin: 0 0 20px 0;
+   letter-spacing: 2px;
+}
+.navbar-nav  li a:hover {
+   color: #1abc9c !important;
+}
+
+.home, .about, .contact {
+   font-size: 17px;
+}
+
+.clear {
+   clear: both;
+   height: 60px; }
+
+.footer-padding {
+  padding-bottom: 20px;
+}
+
+.footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #CDF0EA;
+}
+
+.footer p {
+  padding-top: 20px;
+  font-size: 15px;
+  color: #45526C;
+}
+
+.post-area {
+   margin-bottom: 10px;
+}
